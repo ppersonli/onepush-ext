@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://pixiaoli.cn" target="_blank" rel="noreferrer">
+    <img src="public/icon/logo.png" alt="Pixiaoli Logo" width="96" height="96" />
+  </a>
+</p>
 
 我的网站：[https://pixiaoli.cn](https://pixiaoli.cn)
 
